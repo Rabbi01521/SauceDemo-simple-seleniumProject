@@ -3,7 +3,7 @@
 /test-output
 .road.jpg
 /.settings
-/test/java/MyFirstWebTest.java
-/test/java/onlineUniversityProject.java
-/test/java/locator_learning_Advanced.java
+src/test/java/locator/MyFirstWebTest.java
+src/test/java/locator/onlineUniversityProject.java
+src/test/java/locator/locator_learning_Advanced.java
 
